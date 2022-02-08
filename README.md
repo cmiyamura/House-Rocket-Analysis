@@ -24,11 +24,7 @@ No | Questions | Answer
 -|-|-
 1 | How many houses are available for buy? | 21612
 2 | How many attributes do the houses have? | 21
-3 | What are the attributes? | 
-'id', 'date', 'price', 'bedrooms', 'bathrooms', 'sqft_living',
-       'sqft_lot', 'floors', 'waterfront', 'view', 'condition', 'grade',
-       'sqft_above', 'sqft_basement', 'yr_built', 'yr_renovated', 'zipcode',
-       'lat', 'long', 'sqft_living15', 'sqft_lot15
+3 | What are the attributes? | 'id', 'date', 'price', 'bedrooms', 'bathrooms', 'sqft_living', 'sqft_lot', 'floors', 'waterfront', 'view', 'condition', 'grade','sqft_above', 'sqft_basement', 'yr_built', 'yr_renovated', 'zipcode', 'lat', 'long', 'sqft_living15', 'sqft_lot15
 4 | What is the cheaper value house? | 75000
 5 | What is the greater value house? | 7700000
 6 | What is the average price of all houses? | 540088.14
