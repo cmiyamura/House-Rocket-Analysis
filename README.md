@@ -21,7 +21,7 @@ Python
 ## Question Answer
 
 No | Questions | Answer
--|-
+-|-|-
 1 | How many houses are available for buy? | 21612
 2 | How many attributes do the houses have? | 21
 3 | What are the attributes? | 
