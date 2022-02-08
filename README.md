@@ -1,6 +1,6 @@
 # House-Rocket-Analysis
 
-### CEO question
+## CEO question
 
 No | Questions
 -|-
@@ -13,9 +13,10 @@ No | Questions
 7 | What is the average size of all houses? 
 8 | How many houses have 2 bedrooms? 
 
-### Data Collection
+## Data Collection
 The dataset is available on the Kaggle platform [house sales prediction](https://www.kaggle.com/harlfoxem/housesalesprediction).
-### Tools
+
+## Tools
 Python
 
 ## Question Answer
