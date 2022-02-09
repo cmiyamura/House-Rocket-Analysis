@@ -30,6 +30,6 @@ No | Questions | Answer
 5 | What is the greater value house? | 7700000
 6 | What is the average price of all houses? | 540088.14
 7 | What is the average size of all houses? | 292
-8 | How many houses have 2 bedrooms? | 
+8 | How many houses have 2 bedrooms? | 2760
 9 | What is the average price of 2 bedrooms homes? | 
 10 | What most influence in house price? | 
