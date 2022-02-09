@@ -12,6 +12,7 @@ No | Questions
 6 | What is the average price of all houses? 
 7 | What is the average size of all houses? 
 8 | How many houses have 2 bedrooms? 
+9 | What is the average price of 2 bedrooms homes? 
 
 ## Data Collection
 The dataset is available on the Kaggle platform [house sales prediction](https://www.kaggle.com/harlfoxem/housesalesprediction).
@@ -31,5 +32,5 @@ No | Questions | Answer
 6 | What is the average price of all houses? | 540088.14
 7 | What is the average size of all houses? | 292
 8 | How many houses have 2 bedrooms? | 2760
-9 | What is the average price of 2 bedrooms homes? | 
-10 | What most influence in house price? | 
+9 | What is the average price of 2 bedrooms homes? | 401372
+
